@@ -4,7 +4,7 @@
 
 ### Presentation: [[slides](https://github.com/VanHoann/NMF_in_Facial_Recognition/blob/main/Presentation_slides.pdf)]
 
-### Code: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+### Code: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VanHoann/NMF_in_Facial_Recognition/blob/main/NMF_in_Facial_Recognition.ipynb)
 
 We examine the Non-negative Matrix Factorization techniques and its applications
 in Facial Recognition. Firstly, we represent the NMF algorithms using the L2-norm
